@@ -1,1 +1,16 @@
 {"message":"[mb:2525] mountebank v2.5.0 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2021-09-27T12:39:22.359Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2021-09-27T12:39:22.427Z"}
+{"message":"[http:6969 profile] Open for business...","level":"info","timestamp":"2021-09-27T12:39:22.446Z"}
+{"message":"[http:6969 profile] ::1:49415 => DELETE /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:39:30.292Z"}
+{"message":"[http:6969 profile] ::1:49421 => POST /profile/v1/user/create","level":"info","timestamp":"2021-09-27T12:39:42.604Z"}
+{"message":"[http:6969 profile] ::1:49422 => GET /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:39:42.620Z"}
+{"message":"[http:6969 profile] ::1:49423 => PUT /profile/v1/user","level":"info","timestamp":"2021-09-27T12:39:42.643Z"}
+{"message":"[http:6969 profile] ::1:49424 => DELETE /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:39:42.660Z"}
+{"message":"[http:6969 profile] ::1:62632 => POST /profile/v1/user/create","level":"info","timestamp":"2021-09-27T12:47:03.381Z"}
+{"message":"[http:6969 profile] ::1:62633 => GET /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:47:03.394Z"}
+{"message":"[http:6969 profile] ::1:62634 => PUT /profile/v1/user","level":"info","timestamp":"2021-09-27T12:47:03.412Z"}
+{"message":"[http:6969 profile] ::1:62635 => DELETE /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:47:03.428Z"}
+{"message":"[http:6969 profile] ::1:61331 => POST /profile/v1/user/create","level":"info","timestamp":"2021-09-27T12:52:09.872Z"}
+{"message":"[http:6969 profile] ::1:61332 => GET /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:52:09.888Z"}
+{"message":"[http:6969 profile] ::1:61333 => PUT /profile/v1/user","level":"info","timestamp":"2021-09-27T12:52:09.908Z"}
+{"message":"[http:6969 profile] ::1:61334 => DELETE /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:52:09.924Z"}
