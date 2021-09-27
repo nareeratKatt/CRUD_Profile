@@ -1,0 +1,12 @@
+COMMON:
+  create_url:    http://localhost:6969/profile/v1/user/create
+  url_get_put_delete:   http://localhost:6969/profile/v1/user/1
+  base_url:   http://localhost:6969/profile
+    
+  
+DATA:
+  response_success: 'success'
+  user_profile:
+    id: '1'
+    firstname:  'Mr.Boss'
+    lastname: 'Baby'

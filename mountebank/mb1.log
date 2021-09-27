@@ -1,0 +1,19 @@
+{"message":"[mb:2525] mountebank v2.5.0 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2021-09-27T12:30:48.070Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2021-09-27T12:30:48.147Z"}
+{"message":"[http:6969 profile] Open for business...","level":"info","timestamp":"2021-09-27T12:30:48.166Z"}
+{"message":"[http:6969 profile] ::1:49499 => POST /profile/v1/user/create","level":"info","timestamp":"2021-09-27T12:30:57.161Z"}
+{"message":"[http:6969 profile] ::1:49500 => GET /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:30:57.180Z"}
+{"message":"[http:6969 profile] ::1:49501 => PUT /profile/v1/user","level":"info","timestamp":"2021-09-27T12:30:57.199Z"}
+{"message":"[http:6969 profile] ::1:54130 => POST /profile/v1/user/create","level":"info","timestamp":"2021-09-27T12:32:28.855Z"}
+{"message":"[http:6969 profile] ::1:54131 => GET /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:32:28.870Z"}
+{"message":"[http:6969 profile] ::1:54132 => PUT /profile/v1/user","level":"info","timestamp":"2021-09-27T12:32:28.888Z"}
+{"message":"[http:6969 profile] ::1:54196 => POST /profile/v1/user/create","level":"info","timestamp":"2021-09-27T12:35:16.229Z"}
+{"message":"[http:6969 profile] ::1:54197 => GET /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:35:16.241Z"}
+{"message":"[http:6969 profile] ::1:54198 => PUT /profile/v1/user","level":"info","timestamp":"2021-09-27T12:35:16.259Z"}
+{"message":"[http:6969 profile] ::1:49356 => POST /profile/v1/user/create","level":"info","timestamp":"2021-09-27T12:37:21.292Z"}
+{"message":"[http:6969 profile] ::1:49357 => GET /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:37:21.307Z"}
+{"message":"[http:6969 profile] ::1:49358 => PUT /profile/v1/user","level":"info","timestamp":"2021-09-27T12:37:21.326Z"}
+{"message":"[http:6969 profile] ::1:49359 => DELETE /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:37:21.344Z"}
+{"message":"[http:6969 profile] ::1:49378 => DELETE /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:38:05.341Z"}
+{"message":"[http:6969 profile] ::1:49399 => DELETE /profile/v1/user/1","level":"info","timestamp":"2021-09-27T12:38:55.251Z"}
+{"message":"[mb:2525] Adios - see you soon?","level":"info","timestamp":"2021-09-27T12:39:06.135Z"}

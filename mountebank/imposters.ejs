@@ -1,0 +1,30 @@
+{
+    "imposters": [
+            {
+                    "port": 6969,
+                    "protocol": "http",
+                    "name": "profile",
+                    "stubs": [
+                            {
+                                    "predicates": [ <% include profile/case_1/c1_predicates.ejs %> ],
+                                    "responses": [ <% include profile/case_1/c1_response.ejs %> ]
+                            },
+                            {
+                                    "predicates": [ <% include profile/case_2/c2_predicates.ejs %> ],
+                                    "responses": [ <% include profile/case_2/c2_response.ejs %> ]
+                            },
+                            {
+                                    "predicates": [ <% include profile/case_3/c3_predicates.ejs %> ],
+                                    "responses": [ <% include profile/case_3/c3_response.ejs %> ]
+                            },
+                            {
+                                "predicates": [ <% include profile/case_4/c4_predicates.ejs %> ],
+                                "responses": [ <% include profile/case_4/c4_response.ejs %> ]
+                            },
+                            {
+                                    "responses": [ <% include proxy.ejs %> ]
+                            }
+                    ]
+            }
+    ]
+}

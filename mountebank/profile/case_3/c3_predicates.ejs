@@ -1,0 +1,19 @@
+{
+    "and":[
+       {
+            "equals":{
+                "path":"/profile/v1/user",
+                "method":"PUT"
+            }
+       },
+       {
+          "matches":{
+             "body":{
+                "userid" : "1",
+               "firstname":"Mr.Boss",
+               "lastname":"Baby"
+             }
+          }
+       }
+    ]
+ }

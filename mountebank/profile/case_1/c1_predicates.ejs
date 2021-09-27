@@ -1,0 +1,18 @@
+{
+    "and":[
+       {
+            "equals":{
+                "path":"/profile/v1/user/create",
+                "method":"POST"
+            }
+       },
+       {
+          "matches":{
+             "body":{
+                "firstname":"Mr.Boss",
+                "lastname":"Baby"
+             }
+          }
+       }
+    ]
+ }
